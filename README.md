@@ -91,6 +91,15 @@
   - **Scalability:** The system should be able to scale horizontally to handle increased traffic.  
   - **Usability:** The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.  
   - **Reliability:** The system should have an uptime of 99.9% and recover quickly from any failures.  
+
+## 🧩 Use Case Diagram
+Here’s a visual overview of the system interactions.
+
+![Use Case Diagram](https://drive.google.com/uc?export=view&id=1Q4l8-ms2ZwnDpI0jPYyXoFHD8fRXoAdY)
+
+
+
+
  
 
 
