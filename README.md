@@ -95,7 +95,7 @@
 ## 🧩 Use Case Diagram
 Here’s a visual overview of the system interactions.
 
-![Use Case Diagram](./images/alx-booking-uc.png)
+![Use Case Diagram](./assets/images/alx-booking-uc.png)
 
 
 
